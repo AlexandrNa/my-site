@@ -1,0 +1,66 @@
+
+body{
+  width:750px;
+  margin: auto;
+}
+footer, header{
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 30px;
+  background-color: #DC143C;
+  }
+footer a, header a {
+    color: black;
+    font-weight: bolder;
+  }
+nav {
+    /*padding-left: 100px;*/
+    width: 530px;
+    margin: auto;
+  }
+nav a {
+  font-size: 28px;
+  padding: 7px;
+  color: black;
+  background-color: #FFA5A5;
+  border: 3px solid #DC143C;
+  border-radius: 10%;
+}
+
+h1 {
+  position: center;
+}
+
+main {
+  width: 670px;
+  min-height: 200px;
+  padding-top: 20px;
+  color: black;
+  margin: auto;
+}
+.logo {
+  width: 300px;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.advantages{
+  width: 350px;
+  height: 200px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 5px solid black;
+}
+.advantages li {
+  font-weight: bold;
+}
+
+.sales {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 5px solid #DC143C;
+  border-radius: 10%;
+    background-color: #FFA5A5;
